@@ -22,7 +22,7 @@ This application was built to provide a simple yet powerful tool for locating bl
 This project is built entirely in the R programming language and relies on the following core packages:
 
 *   **[R](https://www.r-project.org/)**: The programming language.
-*   **[Shiny](https://shiny.posit.co/)**: The web application framework for R.
+*   **[Shiny](https://shiny.rstudio.com/)**: The web application framework for R.
 *   **[Leaflet](https://rstudio.github.io/leaflet/)**: The mapping and visualization library.
 *   **[sf (Simple Features)](https://r-spatial.github.io/sf/)**: Used for spatial data handling to ensure locations are within Bangladesh's borders.
 *   **[dplyr](https://dplyr.tidyverse.org/)**: Used for data manipulation.
@@ -54,7 +54,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 You need to have R and RStudio installed on your computer.
 *   [Download R](https://cran.r-project.org/)
-*   [Download RStudio Desktop (Free)](https://posit.co/download/rstudio-desktop/)
+*   [Download RStudio Desktop (Free)](https://rstudio.com/download/rstudio-desktop/)
 
 ### Installation and Setup
 
